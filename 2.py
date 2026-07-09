@@ -1,3 +1,4 @@
+# variables and datatypes
 name="nagaraj"
 print("name")
 a=10

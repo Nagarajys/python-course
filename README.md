@@ -1,6 +1,6 @@
 README.md TEMPLATE - KSIT CSE EDITION 🚀
 # 🚀 100 Days of Python - CSE Journey
-KSIT Raghuvanahalli, CSE Student | *Goal: 25 LPA* 💰
+KSIT Raghuvanahalli, banglore, CSE Student | *Goal: 25 LPA* 💰
 ## 👨‍💻 About Me
 Hi, I'm [Your Name]. I'm pursuing CSE at KSIT, Bangalore. I'm passionate about coding, AI/ML, and building real-world projects. My dream is to crack top tech companies like Amazon/Google by 2028 🚀
 ## 📅 Progress
@@ -10,12 +10,13 @@ day2  |variables and datatypes   |    1            |
 day3  |input-output concept      |     7           |
 day3  |string datatype access and|                 |
        manipulation
+day 4 |string datatype access and|  5               |
+       manipulation      
 
 ## 💡 Why I'm Doing This
-- *Placement Target*: 8-25 LPA
+- *Placement Target*: 15-25 LPA
 - *Skill Up*: Python, DSA, GitHub
 - *Dream Company*: Amazon, Microsoft, Google
-- *Current Streak*: 3 days 🟩🟩🟩
 - 
 - ## 🔥 Coding Stats
 - *Total Problems*: daily changes

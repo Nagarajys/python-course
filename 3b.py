@@ -1,3 +1,4 @@
+# string adtatype and access manipulation
 first_name = "nagaraj"
 last_name = "ys"
 full_name = first_name + " " + last_name
