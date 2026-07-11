@@ -37,6 +37,20 @@ items = (23,55,66,33,22,1,100,3500,250)
 print(sorted(items)) ## asending  order
 sorted_items = sorted(items)
 print(sorted_items)
+numbers = (1,2,3,4,5,6,1,2,2,3)
+print(numbers.count(2)) ## to count required number 
+print(numbers.index(2)) ## to check index of number
+print(sum(numbers)) ## to add all numbers in list
+
+fruits = ["apple", "banana" , "cakefruit", "pineapple"]
+fruits.reverse()
+print(fruits)
+
+m = [[1,2],[3,6],[5,7]]
+print(m) ## nesting
+print(m[0]) 
+print(m[0][0]) ## to get list of list number put 2 times of index
+print(type(m))
 
 
 
