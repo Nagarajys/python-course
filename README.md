@@ -1,8 +1,8 @@
-README.md TEMPLATE - KSIT CSE EDITION 🚀
+README.md TEMPLATE -  aspiring CSE EDITION 🚀
 # 🚀 100 Days of Python - CSE Journey
-KSIT Raghuvanahalli, banglore, CSE Student | *Goal: 25 LPA* 💰
+Aspiring CSE Student | *Goal: 25 LPA* 💰
 ## 👨‍💻 About Me
-Hi, I'm [Your Name]. I'm pursuing CSE at KSIT, Bangalore. I'm passionate about coding, AI/ML, and building real-world projects. My dream is to crack top tech companies like Amazon/Google by 2028 🚀
+Hi, I'm [Your Name]. Aspiring cse , I'm passionate about coding, AI/ML, and building real-world projects. My dream is to crack top tech companies like Amazon/Google by 2028 🚀
 ## 📅 Progress
 check my git hub profile   (https://github.com/nagarajkondlur-collab)
 
