@@ -1,24 +1,58 @@
-README.md TEMPLATE -  aspiring CSE EDITION 🚀
-# 🚀 100 Days of Python - CSE Journey
-Aspiring CSE Student | *Goal: 25 LPA* 💰
-## 👨‍💻 About Me
-Hi, I'm [Your Name]. Aspiring cse , I'm passionate about coding, AI/ML, and building real-world projects. My dream is to crack top tech companies like Amazon/Google by 2028 🚀
-## 📅 Progress
-check my git hub profile   (https://github.com/nagarajkondlur-collab)
+# 🚀 Python Learning Journey
 
-## 💡 Why I'm Doing This
-- *Placement Target*: 15-25 LPA
-- *Skill Up*: Python, DSA, GitHub
-- *Dream Company*: Amazon, Microsoft, Google
-- 
-- ## 🔥 Coding Stats
-- *Total Problems*: daily changes
-- *Languages*: Python
-- *GitHub Streak*: [github.com/yourname](https://github.com/nagarajkondlur-collab)
+Welcome to my Python learning repository!
 
-## 📬 Contact
-- *Email*: nagaraj.kondlur@gmail.com
-- *LinkedIn*: [linkedin.com/in/Nagaraj.ys](https://linkedin.com/in/nagaraj.ys)
-- *GitHub*: [github.com/Nagaraj.ys](https://github.com/nagaraj.ys)
+Hi, I'm **Nagaraj Y.S.**
 
-🚀 *Follow my coding journey!* 💪
+I am an aspiring Computer Science student who is building a strong programming foundation through consistent practice. This repository contains the Python programs and exercises I solve as part of my daily learning journey.
+
+---
+
+## 📚 Topics Covered
+
+* Variables & Data Types
+* Input & Output
+* Conditional Statements
+* Loops
+* Functions
+* Strings
+* Lists
+* List Manipulation
+* Matrix (2D Lists)
+* Basic Problem Solving
+
+---
+
+## 🎯 My Learning Goals
+
+* Build strong Python fundamentals
+* Improve problem-solving skills
+* Learn Data Structures & Algorithms
+* Build real-world software projects
+* Prepare for software engineering internships and placements
+
+---
+
+## 📂 Repository Contents
+
+* Python practice programs
+* Problem-solving exercises
+
+---
+
+## 📈 Learning Progress
+
+I regularly update this repository as I learn new Python concepts and solve more programming problems.
+
+Consistency over perfection.
+
+---
+
+## 🤝 Connect with Me
+
+* GitHub: https://github.com/Nagarajys
+* LinkedIn: https://www.linkedin.com/in/nagaraj-ys/
+
+Thank you for visiting my repository!
+⭐ Feel free to explore my code and follow my learning journey.
+
