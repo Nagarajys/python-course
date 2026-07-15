@@ -4,7 +4,7 @@ Welcome to my Python learning repository!
 
 Hi, I'm **Nagaraj Y.S.**
 
-I am an aspiring Computer Science student who is building a strong programming foundation through consistent practice. This repository contains the Python programs and exercises I solve as part of my daily learning journey.
+I am an aspiring Artificial intelligence and machine learning(AIML) student who is building a strong programming foundation through consistent practice. This repository contains the Python programs and exercises I solve as part of my daily learning journey.
 
 ---
 
@@ -19,7 +19,7 @@ I am an aspiring Computer Science student who is building a strong programming f
 * Lists
 * List Manipulation
 * Matrix (2D Lists)
-* Basic Problem Solving
+* Basic Problem Solving on specific topic
 
 ---
 
