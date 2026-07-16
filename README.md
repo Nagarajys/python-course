@@ -20,6 +20,7 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * List Manipulation
 * Matrix (2D Lists)
 * Basic Problem Solving on specific topic
+* Tupels and sets
 
 ---
 
