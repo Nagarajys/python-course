@@ -21,6 +21,8 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * Matrix (2D Lists)
 * Basic Problem Solving on specific topic
 * Tupels and sets
+* Dictionary
+* If, elif,and else
 
 ---
 
