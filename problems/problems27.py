@@ -23,4 +23,5 @@ elif 2000<=amount<=4999 and discount ==5:
 elif amount<2000:
     print("no discount")
 else:
-    print("pay full cash")
+    print("pay full cash") 
+
