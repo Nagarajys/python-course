@@ -1,48 +1,43 @@
-# problems : 30 - WHILE LOOPS 
-#Q1 - MMULTIPLICTION TABLE
-n = int(input("enter a number - "))
+# Problem 6
+
+n = int(input("Enter number : "))
+
 i = 1
+
+while i <= 10:
+    print(n, "x", i, "=", n*i)
+    i += 1
+    
+# Problem 7
+
+n = int(input("Enter number : "))
+
 fact = 1
-while i<=n:
-    fact = fact*i
-    i= i + 1
-print("Factorial=", fact)
+i = 1
 
-# note to remember
-#Sum ➜ total = 0
-#Count ➜ count = 0
-#Factorial/Product ➜ fact = 1
+while i <= n:
+    fact *= i
+    i += 1
 
-#Q2 - REVERSE NUMBER
-n = int(input("enter a number= "))
-while n>0:
-    digit = n%10 # a number divided by 10 always gives last digit of that number as a remainder
-    print(digit, end = "") # digit na print madu matte next hako function digit jote nay end agli
-    n = n//10 # float function removes number after decial and adds reversly
-    break
+print("Factorial =", fact)
 
-#Q3 - GUESS THE PASSWORD
+# Problem 8
+
+num = int(input("Enter number : "))
+
+while num > 0:
+    digit = num % 10
+    print(digit, end="")
+    num = num // 10
+    
+# Problem 9
+
 password = "python"
 
-user = "" 
+user = ""
 
 while user != password:
-    user = input("enter your password:")
-    
-print("Access granted")
+    user = input("Enter Password : ")
 
+print("Access Granted")
 
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-    
