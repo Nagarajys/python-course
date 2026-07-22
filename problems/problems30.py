@@ -19,7 +19,27 @@ while n>0:
     digit = n%10 # a number divided by 10 always gives last digit of that number as a remainder
     print(digit, end = "") # digit na print madu matte next hako function digit jote nay end agli
     n = n//10 # float function removes number after decial and adds reversly
+    break
+
+#Q3 - GUESS THE PASSWORD
+password = "python"
+
+user = "" 
+
+while user != password:
+    user = input("enter your password:")
     
+print("Access granted")
+
+
+
+
+
+
+
+
+
+
     
     
 
