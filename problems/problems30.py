@@ -26,9 +26,9 @@ print("Factorial =", fact)
 num = int(input("Enter number : "))
 
 while num > 0:
-    digit = num % 10
+    digit = num % 10 # gives remainder as last digit of given number
     print(digit, end="")
-    num = num // 10
+    num = num // 10 # remove num whoch is present after decimal adn add last number so on continue for remaining number also
     
 # Problem 9
 
