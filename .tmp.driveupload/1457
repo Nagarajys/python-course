@@ -1,0 +1,76 @@
+0000000000000000000000000000000000000000 021cae9e97de23dd06ba70de057f5827ec4bc823 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1782980280 +0530	commit (initial): today i learned variables and data types
+021cae9e97de23dd06ba70de057f5827ec4bc823 0000000000000000000000000000000000000000 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1782998603 +0530	Branch: renamed refs/heads/main to refs/heads/main
+021cae9e97de23dd06ba70de057f5827ec4bc823 021cae9e97de23dd06ba70de057f5827ec4bc823 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1782998603 +0530	Branch: renamed refs/heads/main to refs/heads/main
+021cae9e97de23dd06ba70de057f5827ec4bc823 18e65accb8dee1b2df9c71ade4096040666b0923 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1782999506 +0530	commit: learning python
+18e65accb8dee1b2df9c71ade4096040666b0923 affadf439d9e4e57aa466e3cdc7b90785d21dc80 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783091980 +0530	commit: input and output day 3
+affadf439d9e4e57aa466e3cdc7b90785d21dc80 2d6f6022d31e59c632625549a484cbac53ae9dcb NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783091993 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+2d6f6022d31e59c632625549a484cbac53ae9dcb ed05142b8f4c2a3cb1d8d29da3d64b5750b01279 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783094726 +0530	commit: Problem 1: Student details
+ed05142b8f4c2a3cb1d8d29da3d64b5750b01279 1f84f8aab012598d5ceec31ae569f42a42dfcd3c NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783146093 +0530	pull --tags origin main: Fast-forward
+1f84f8aab012598d5ceec31ae569f42a42dfcd3c a3155c764298438d75046b17fdf246c5abe890f8 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783146904 +0530	commit: problems1.py
+a3155c764298438d75046b17fdf246c5abe890f8 602dde68e38e2d6e39a695c9bc57e12e28d90d51 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783147702 +0530	commit: make git green
+602dde68e38e2d6e39a695c9bc57e12e28d90d51 a9123fd68591f410bb1d796317212f99a7b5640f NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783150024 +0530	commit: Problem 2: Bill calculator
+a9123fd68591f410bb1d796317212f99a7b5640f a9123fd68591f410bb1d796317212f99a7b5640f NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783306974 +0530	checkout: moving from main to main
+a9123fd68591f410bb1d796317212f99a7b5640f 9084e73338cc9df5ac0ddcc3d045d588d36e5968 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783308511 +0530	commit: added 1 input-output problem
+9084e73338cc9df5ac0ddcc3d045d588d36e5968 60877161af99fd7c3744cd96eedef5facb83bbb1 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783309031 +0530	commit: Problem 3: Student Info
+60877161af99fd7c3744cd96eedef5facb83bbb1 737762ee308a29e596389ad1b384ba78bc1da5f4 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783312829 +0530	commit: added 3 input-output problems
+737762ee308a29e596389ad1b384ba78bc1da5f4 2977f50e73db132b0de3c5acbafbe207ba2c0f40 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783313478 +0530	commit: added 4 input-output problems
+2977f50e73db132b0de3c5acbafbe207ba2c0f40 43d85efe1068296de4c2b6068ae602aa166d927c NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783314664 +0530	commit: added 5 input-output problems
+43d85efe1068296de4c2b6068ae602aa166d927c 2b7f04cfb700182d08d08dfadd649dde49a9e7dc NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783315551 +0530	commit: Problem 6: Celsius to Fahrenheit
+2b7f04cfb700182d08d08dfadd649dde49a9e7dc e89674a1c7ac081d7bd3b2db4c307a32e12dae21 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783315591 +0530	commit: added 6 input-output problem
+e89674a1c7ac081d7bd3b2db4c307a32e12dae21 08b90520acf3adf8aa6860bf94004d2a5a283c64 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783356151 +0530	commit: 7 input -output problems added
+08b90520acf3adf8aa6860bf94004d2a5a283c64 33691d778adcde59fc9d1cd0b40c8c0136248853 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783358477 +0530	commit: Input and output
+33691d778adcde59fc9d1cd0b40c8c0136248853 7fd269f91bb6d868a2c6e91010e1f05445ec7a0c NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783444591 +0530	commit: Add string manipulation examples and print statements
+7fd269f91bb6d868a2c6e91010e1f05445ec7a0c a135527bb1dbc02a84d0ece4f1368a18abc6e222 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783444604 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+a135527bb1dbc02a84d0ece4f1368a18abc6e222 e2753c420d4531660df04e9a04be48f989153f44 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783446139 +0530	commit: input - output concept
+e2753c420d4531660df04e9a04be48f989153f44 c36c49cd5242b75e0dadc03aa36dc4bb76ce22ff NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783519218 +0530	commit: problem : 8 palindrome check
+c36c49cd5242b75e0dadc03aa36dc4bb76ce22ff 0fdbd6c71bf6add3ab3e1f330000368eb9e73a58 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783519298 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+0fdbd6c71bf6add3ab3e1f330000368eb9e73a58 2e2bfd9270e3f16fe4ab156a6b07706fc0ec1f2d NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783526689 +0530	commit: problems8.py palindrome check
+2e2bfd9270e3f16fe4ab156a6b07706fc0ec1f2d a5cfdfa43c9172d0d81c9903f2f31a2c57fe60b9 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783527695 +0530	commit: problems9,py count vowels
+a5cfdfa43c9172d0d81c9903f2f31a2c57fe60b9 dda237c078493a1548f87c6d396a97d9559915b3 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783529380 +0530	commit: problems10.py
+dda237c078493a1548f87c6d396a97d9559915b3 effb4aea25a5bfd46e32cdae5b0979018725254a NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783529427 +0530	commit: problems10.py
+effb4aea25a5bfd46e32cdae5b0979018725254a 9f91e01350f858ebb9cf5921b6b945c8b863bbef NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783532653 +0530	commit: problems11.py
+9f91e01350f858ebb9cf5921b6b945c8b863bbef fb9871c9b2764febaf2495ff7f0399bbcd695100 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783532785 +0530	commit: problems11.py word count
+fb9871c9b2764febaf2495ff7f0399bbcd695100 7671956cb6712a005f2129c6b2089e06e54680d8 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783534228 +0530	commit: Add problem 12: character replacement example
+7671956cb6712a005f2129c6b2089e06e54680d8 f882226587f69fa8cb51d1bd689a255d012a45ac NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783580392 +0530	commit: Reintroduce files for Python basics: introduction, variables, input-output, and string manipulation
+f882226587f69fa8cb51d1bd689a255d012a45ac 892629e40389ce3c45563c6c8e4243ab368dd7ef NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783603159 +0530	commit: Add operators example demonstrating addition and multiplication
+892629e40389ce3c45563c6c8e4243ab368dd7ef 36443e8d75dabc6e8ba831b606f75b893219fea9 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783605846 +0530	commit: Add comparison operators examples to demonstrate equality and relational checks
+36443e8d75dabc6e8ba831b606f75b893219fea9 3aea0eec90672c7fdeac0bdfb1578f62ccd012e6 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783610972 +0530	commit: Refactor operators examples for clarity and consistency
+3aea0eec90672c7fdeac0bdfb1578f62ccd012e6 7495b5110d5d91f6920246af4b06bb084919eb9c NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783611013 +0530	commit: Add VSCode settings for Python type checking configuration
+7495b5110d5d91f6920246af4b06bb084919eb9c 7495b5110d5d91f6920246af4b06bb084919eb9c NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783684810 +0530	checkout: moving from main to main
+7495b5110d5d91f6920246af4b06bb084919eb9c 3e863cf41d3798262932ef97ba13943964b64815 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783704659 +0530	commit: Add list manipulation and slicing examples to demonstrate Python list operations
+3e863cf41d3798262932ef97ba13943964b64815 f204ef2a11ce63c5dc5203ca21240ce14e3664c8 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783704767 +0530	commit: Update README.md to remove outdated progress table and add GitHub profile link; add new subproject for Python learning in Kannada
+f204ef2a11ce63c5dc5203ca21240ce14e3664c8 b278fe7f45544331071dccd2e6921c04810381c0 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783754134 +0530	commit: Add examples for counting, indexing, and summing elements in a list; include list reversal and nested list access
+b278fe7f45544331071dccd2e6921c04810381c0 9db14357b872c93719a41d644b82c32a40fb86d0 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783770471 +0530	commit: Add list sum examples with tuple initialization and length calculation
+9db14357b872c93719a41d644b82c32a40fb86d0 6a0b54071c05437e4ab52272fa68e2c89a7f7f9e NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783772750 +0530	commit: Add student marks analyzer with functions for calculating total, highest, lowest, average, passing, and failing students
+6a0b54071c05437e4ab52272fa68e2c89a7f7f9e 4f3dfe07467ac2d5f1130ef517a6768584b278fa NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783776206 +0530	commit: Add function to remove duplicates and sort a list for educational purposes
+4f3dfe07467ac2d5f1130ef517a6768584b278fa 4c7c54ca203b407a6e5fd88de37fd60ddd3bb4ba NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783864896 +0530	commit: Add function to merge two lists alternately
+4c7c54ca203b407a6e5fd88de37fd60ddd3bb4ba da999794489938e86e6f438d557847ca124e707b NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783870720 +0530	commit: Add function to merge two lists alternately
+da999794489938e86e6f438d557847ca124e707b 0841ac2c7c25e8e86b9af5831bab51b7fe455911 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783871935 +0530	commit: Add function to merge two lists alternately
+0841ac2c7c25e8e86b9af5831bab51b7fe455911 f6298f9a5f4a8552620572995064dca95686a7da NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1783931425 +0530	commit: Add function to merge three lists alternately and a variant for strings
+f6298f9a5f4a8552620572995064dca95686a7da 6fe15bf8442cc476b88af2d98f895db73bbca87f NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784043482 +0530	commit: Add functions to calculate row sums and find the highest row sum in a matrix
+6fe15bf8442cc476b88af2d98f895db73bbca87f 36f4b43ef670a0c33299807c63a85e03a328a448 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784043489 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+36f4b43ef670a0c33299807c63a85e03a328a448 6508b25dd484d17cf66a8031cea2e773f0374807 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784122453 +0530	commit: Add examples for tuple operations including printing, length, and element checks
+6508b25dd484d17cf66a8031cea2e773f0374807 d42feb4183678bc296a9a3606e8415857f54a113 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784122459 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+d42feb4183678bc296a9a3606e8415857f54a113 a860eddbd532c1d041d067ebc9c4ea77ad793874 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784131758 +0530	commit: Add examples for set operations including union, intersection, and difference
+a860eddbd532c1d041d067ebc9c4ea77ad793874 ac99725b3d5b54e465e1f9c40ca9212250d79cbc NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784189103 +0530	commit: Add initial implementation for set operations practice
+ac99725b3d5b54e465e1f9c40ca9212250d79cbc 81100af2817fed35442da0c8cbbf91e1f7371104 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784191919 +0530	commit: Add functionality to find common students and remove duplicates from a list
+81100af2817fed35442da0c8cbbf91e1f7371104 5c7fbd8b66db810ef0264e8e0e435d5ef855472b NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784206495 +0530	commit: Add functionality to remove duplicates, sort the list, and print even and odd numbers
+5c7fbd8b66db810ef0264e8e0e435d5ef855472b d4a77177b62084dc2ec5a061940a1fcdcb312b17 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784206502 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+d4a77177b62084dc2ec5a061940a1fcdcb312b17 6ba66d032527d89141c158af901f775d7ffc2b5e NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784220434 +0530	commit: Add initial implementation for dictionary operations and examples
+6ba66d032527d89141c158af901f775d7ffc2b5e 6ba66d032527d89141c158af901f775d7ffc2b5e NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784268822 +0530	checkout: moving from main to main
+6ba66d032527d89141c158af901f775d7ffc2b5e 522a751d4ee2544516c1e49fe8cb2398015bf795 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784272438 +0530	commit: Add implementation for dictionary operations including student marks analysis
+522a751d4ee2544516c1e49fe8cb2398015bf795 74f05db97413189ba6962d764318bbc36bb28469 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784276012 +0530	commit: Add implementation for dictionary operations and student details printing
+74f05db97413189ba6962d764318bbc36bb28469 e6d6389bf5fb88a63cb2df562011b28e8283e097 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784390329 +0530	commit: Add implementation of conditional statements and logical operators
+e6d6389bf5fb88a63cb2df562011b28e8283e097 295c91a79b897d678eecc64d84537b82fce80d66 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784433867 +0530	commit: Add implementation of smart login system using if, elif, and else statements
+295c91a79b897d678eecc64d84537b82fce80d66 87e74ccb1fd1df2f4971cc83eaf6d3236216835b NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784433881 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+87e74ccb1fd1df2f4971cc83eaf6d3236216835b fcc8329d89adb6f2d1a82a992649df01ef6d394c NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784442849 +0530	commit: Add launch configuration for debugging and implement student scholarship system
+fcc8329d89adb6f2d1a82a992649df01ef6d394c df12bd9a933ada8ad13d5e0903cb5b1102e749e4 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784442894 +0530	commit: Add launch configuration for debugging in Visual Studio Code
+df12bd9a933ada8ad13d5e0903cb5b1102e749e4 c7e4376d895617aefd14f33e3a936f81c82465ad NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784446685 +0530	commit: Add E-Commerce Discount System implementation
+c7e4376d895617aefd14f33e3a936f81c82465ad 523daa800d92b35161870b58bc9917c56b695a94 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784810868 +0530	commit: Add multiple example scripts for user input and number manipulation
+523daa800d92b35161870b58bc9917c56b695a94 0fdcbf1a535e6a442e366e673226bf871443ada1 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784811034 +0530	commit: Add while loop problems and their solutions in problems29.py and problems30.py
+0fdcbf1a535e6a442e366e673226bf871443ada1 dded3a494b2c11553219eb040492b7af9c8665b3 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784811097 +0530	commit: git push
+dded3a494b2c11553219eb040492b7af9c8665b3 dded3a494b2c11553219eb040492b7af9c8665b3 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784811312 +0530	reset: moving to HEAD
+dded3a494b2c11553219eb040492b7af9c8665b3 a7da677622aea98a1073055bfe03c320ad267b64 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784811781 +0530	commit: Added while loop problems
+a7da677622aea98a1073055bfe03c320ad267b64 a7da677622aea98a1073055bfe03c320ad267b64 NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784811860 +0530	reset: moving to HEAD
+a7da677622aea98a1073055bfe03c320ad267b64 8b944caac9d3839e5ca8d3f8ff207fb73a62619a NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784813639 +0530	commit (merge): Merge branch 'main' of https://github.com/nagarajkondlur-collab/python-course
+8b944caac9d3839e5ca8d3f8ff207fb73a62619a 82f6d56b1a3256ae58201a8c1a85ee5abf16a9ca NAGARAJ .YS <nagaraj.kondlur@gmail.com> 1784814263 +0530	commit: git push
