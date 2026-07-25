@@ -23,6 +23,7 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * Tupels and sets
 * Dictionary
 * If, elif,and else
+* while loops
 
 ---
 
