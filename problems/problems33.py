@@ -1,4 +1,4 @@
-# find the largest digit in a number
+# find the largest digit in a number WHILE CONCEPT
 
 num = int(input("enter a number=")) # 5692
 largest = 0 

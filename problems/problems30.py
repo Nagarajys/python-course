@@ -1,4 +1,4 @@
-# Problem 6
+# Problem 6 WHILE CONCEPT
 
 n = int(input("Enter number : "))
 

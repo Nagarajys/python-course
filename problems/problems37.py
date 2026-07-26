@@ -1,4 +1,4 @@
-# Reverse Number & Check Palindrome
+# Reverse Number & Check Palindrome  WHILE CONCEPT
 
 num = int(input("enter a number = "))
 reverse = 0

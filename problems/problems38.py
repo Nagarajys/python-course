@@ -1,4 +1,4 @@
-# Armstrong number
+# Armstrong number  WHILE CONCEPT
 num = int(input("Enter a number: "))
 
 temp = num

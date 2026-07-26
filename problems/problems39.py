@@ -1,4 +1,4 @@
-# STRONG NUMBER - means 145 dhu each digit factorial maddhga ady 145 nay barbeku adhe strong number
+# STRONG NUMBER - WHILE CONCEPT- means 145 dhu each digit factorial maddhga ady 145 nay barbeku adhe strong number
 # we use 2 loops here calculate factorial
 num = 145
 temp = num 
