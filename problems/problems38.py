@@ -13,5 +13,9 @@ while temp > 0:
 if total == num:
     print("Armstrong Number")
 else:
-     print("Not an Armstrong Number")                  
+     print("Not an Armstrong Number")   
+     
+     
+     # ARM STRONG NUMBER ANDRE PRATHI DIGIT DHU POWER ( ANDRE A NUMBER LENGTH YAST EDHYAST NA POWER MADBEKU)
+     # POWER MADI BANDIRO NUMBER A NUMBER GAY EQUAL AGIRBEKU EX: 153 = 153 ETHARA               
     
