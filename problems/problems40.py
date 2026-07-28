@@ -45,6 +45,24 @@ for i in range(1,101):
     count = count +1
 print(count)
 
+# problem 10 - factorial in (a.)while loop version
+num = 5 
+factorial = 1
+while num>0:
+    factorial = factorial*num
+    num = num - 1 # 5 erodh 4 agutte next 3 till 1
+print(factorial)
+
+# problem 11 - factorial in (b.)for loop version
+factorial = 1
+for i in range(1,6):
+    factorial = factorial*i
+print(factorial)
+ #Indentation decides how many times a statement executes. If it is inside the loop:
+# If it is outside the loop:print() executes 1 time (after the loop finishes).
+    
+
+
 
     
     
