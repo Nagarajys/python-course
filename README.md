@@ -13,9 +13,8 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * Variables & Data Types
 * Input & Output
 * Conditional Statements
-* Loops
-* Functions
 * Strings
+* operators
 * Lists
 * List Manipulation
 * Matrix (2D Lists)
@@ -24,6 +23,8 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * Dictionary
 * If, elif,and else
 * while loops
+* for loops
+* list and dictionary comphrehension
 
 ---
 
