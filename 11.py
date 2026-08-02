@@ -86,3 +86,6 @@ x = input("enter a list of integers: ")
 l1 = [int(x)for x in x.split()]
 print(l1)
 
+
+
+
