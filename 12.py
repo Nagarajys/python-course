@@ -69,7 +69,62 @@ greet("arya")
 greet("skibidi")
 greet("deganth skibidi")
 
+def square(num):
+    print(num**2) # "Function call ಆದಾಗ ಈ statement execute ಮಾಡಬೇಕು."
+
+square(5)
+square(25)
+''' Parameter ಯಾವಾಗಲೂ function definition ನಲ್ಲಿ ಇರುತ್ತೆ.
+Parameter ಒಂದು variable.
+Function call ಆದಾಗ value receive ಮಾಡುತ್ತೆ.
+ಒಂದೇ Function ಅನ್ನು ಬೇರೆ ಬೇರೆ values ಜೊತೆ use ಮಾಡಬಹುದು.'''
 
 
+#Argument is the actual value passed to a function during function call.
+#NOTE:Parameter receives. Argument gives.
 
 
+# LOCAL VARIABLE-
+'''A local variable is a variable that is
+created inside a function and can be used only inside that function.'''
+
+def student():
+    name = "Nagaraj"# LV
+    print(name)
+
+student()
+
+def demo():
+    x = 50
+    print(x)
+demo()
+
+def studenta():
+    name = "Nagaraj"
+
+studenta()
+
+#GLOBAL VARIABLES
+''' A Global Variable is a variable that is created outside the 
+function and can be accessed inside and outside the function'''
+
+name = "nagaraj"
+def hi():
+    print(name)
+    
+hi()
+print(name)
+
+
+y= 2000
+def vari():
+    print(y)
+vari()
+print(y) # global variable runs both outside and insisde function
+
+
+city = "banglore"
+def love():
+    print(city) 
+love()
+print(city)
