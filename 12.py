@@ -1,6 +1,6 @@
 # TOPIC- FUNCTIONS BASICS..function in Python is a reusable block of organized code designed to perform a single, specific task. Instead of writing the same code repeatedly, you enclose it in a function, give it a name, and run (call) it whenever needed.
 
-def marriage(boy,girl):#parameters
+def marriage(boy,girl):#parameters Parameter = Function ಒಳಗೆ value receive ಮಾಡೋ Variable.
     print(f"boy is {boy}")
     print(f"girl is {girl}")
     print(f"{boy} married {girl}")
@@ -22,7 +22,7 @@ tables(3)
 tables(28)
 tables(6789)
 
-# deafalt parameter values:
+# deafalt parameter values: Parameter is a variable that receives a value when the function is called.
 def loves(boy,girl="girl"):
     print(f"boy is {boy}")
     print(f"girl is {girl}")
@@ -53,9 +53,21 @@ def variable():
     x = "raja" # local variable 
     print(x)
 y = "viki"# global variable
+
 print(y)
 
+'''Function create ಮಾಡಿದಾಗ name ಗೆ value ಇರಲ್ಲ.
 
+Function call ಆದಾಗ ಮಾತ್ರ value ಬರುತ್ತೆ.'''
+
+def greet(name):
+    print("hello", name)
+    
+greet("nagraj")
+greet("ravi")
+greet("arya")
+greet("skibidi")
+greet("deganth skibidi")
 
 
 
