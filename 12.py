@@ -128,3 +128,12 @@ def love():
     print(city) 
 love()
 print(city)
+
+
+'''If a variable is assigned anywhere inside a
+function, Python treats that variable as LOCAL throughout the entire function.'''
+
+#Local variable must receive a value before it is used.
+
+
+
