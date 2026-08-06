@@ -10,10 +10,10 @@ displays()
 
 #Q12:
 #Function Calling Another Function + Return Value Reuse
-def multiply(a,b):
+def multiplyy(a,b):
     return(a*b)
 def calculate():
-    answer = multiply(5,6)
+    answer = multiplyy(5,6)
     print(" The answer is",answer)
     
 calculate()
@@ -28,15 +28,15 @@ This makes the code reusable, organized, and easier to maintain.'''
 def addi(a,b):
     return a+b
     # square should accept a number and return its square
-def square(num):
+def squaree(num):
     return num * num
 
-result = square(addi(10, 5))
+result = squaree(addi(10, 5))
 print(result)
 
 #Q14:
 #One Function Calling Another Function (Chain of Functions)
-def add(a,b):
+def addd(a,b):
     return(a+b)
 
 def double(num):
