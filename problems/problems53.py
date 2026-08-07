@@ -1,4 +1,4 @@
-# FUNCTION BASICS - PART B:
+# FUNCTION BASICS - PART B: (1)
 #Q1:
 #Function Returning a Value to Another Function
 def subtract(a,b):
