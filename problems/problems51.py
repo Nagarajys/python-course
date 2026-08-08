@@ -1,4 +1,4 @@
-#BASIC FUNCTIONS--PARTA - 2
+#BASIC FUNCTIONS--PARTA - (2)
 #Q6:
 def multiply(a,b):
     return a*b

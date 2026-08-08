@@ -1,4 +1,4 @@
-#BASIC FUNCTIONS--PARTA - 3
+#BASIC FUNCTIONS--PARTA - (3)
 # here one func call other function
 #Q11:
 def adds(a,b):
