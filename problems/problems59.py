@@ -96,5 +96,44 @@ def process_marks(*marks,**choice):
 result = process_marks(40, 25, 80, 35, 90, operation="pass_count")
 print(result)
 
+#Q5:
+def student_analysis(*marks, **options):
+    total = 0
+    operation = options["operation"]
+
+    for mark in marks:
+        total = total + mark
+
+    average = total / len(marks)
+
+    count = 0
+    for mark in marks:
+        if mark >= 35:
+            count = count + 1
+
+    highest = marks[0]
+    for mark in marks:
+        if mark > highest:
+            highest = mark
+
+    if operation == "result":
+        return {
+            "total": total,
+            "average": average,
+            "pass_count": count,
+            "highest": highest
+        }
+
+
+result = student_analysis(
+    40, 25, 80, 35, 90,
+    operation="result"
+)
+
+print(result)
+                
+        
+        
+
 
     
