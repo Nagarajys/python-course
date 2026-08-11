@@ -19,3 +19,30 @@ students = [
 
 students.sort(key=lambda x: x["marks"], reverse=True)
 print(students)
+
+#RECURSION:
+"""Recursion occurs when a function call itself.it
+used to solve problems that can broken into smalller
+and simpler """
+def factorial(n):
+    if n == 1:
+         return 1
+    return n * factorial(n-1)
+print(factorial(4))
+
+#NESTED FUNCTIONS 
+''' nested function is a function defined inside other function,
+accesable insiode only inside outer function , allowing more modular 
+and controlled code execution''' 
+def cal(a,b):
+    def add():
+        print(a+b)
+    def sub():
+        print(a-b)
+    def multi():
+        print(a*b)
+        
+    add()
+    sub()
+    multi()
+cal(10,5)
