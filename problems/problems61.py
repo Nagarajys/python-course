@@ -1,52 +1,65 @@
-#FUNCTION ADVANCWED - PART D (1)- LAMBDA FUNCTION PRACTICE
-# LAMBDA SYNTAX - lambda parameters: expression
-#Lambda internally expression-na result return madutte.(RETURN NOT REQUIRED)
-double = lambda x : x*8
-print(double(20))
+#PART D — LAMBDA FUNCTIONS
+#1. Lambda basics:
+square  =  lambda x : x*x
+print(square(10))
 
-# LAMBDA WITH ONE PARAMETER:
-para  =  lambda x: x*x
-print(para(7))
+#2:sum
+square  =  lambda x,y : x+y
+print(square(20,30))
 
-#lambda with 2 parameters:
-add = lambda a,b : a+b
-print(add(2,9))
+#3.:— Lambda + Condition
+check = lambda z: "even" if z%2==0  else "odd"
+print(check(24))
 
-#lambda with 3 parameters:
-addi = lambda a,b,c : a+b-c
-print(addi(10,20,10))
+#4:Lambda Stored & Reused
+cube  = lambda x: x**3
+print(cube(3))
+print(cube(5))
+#or:
+cube  = lambda x: x**3
+first = cube(3)
+second  =cube(5)
+print(first)
+print(second)
 
-# lambda can have a condition:
-check = lambda x : "even " if x % 2 ==0 else "odd"
-print(check(45))
+#5:Lambda + map()
+numbers =  [2,4,6,8,10]
+double =  list(map(lambda num : num * 2, numbers))
+print(double)
 
-# lambda +if:
-greater  =  lambda a, b : a if a>b else b
-print(greater(10,5))
-
-# Lambda + map()
-numbers  = [4,8,10,12,14]
-result = list(map(lambda num:num *2,numbers))
+#6:Lambda + filter()
+numbers = [10, 15, 20, 23, 30, 41, 50]
+result =  list(filter(lambda num : num% 2 == 0 , numbers))
 print(result)
 
-#lambda + map() map() means:
-"Ee function-na every element mele apply madu."
-numbers = (4,6,8,10)
-result = tuple(map(lambda num : num * 2 , numbers))
+#7:— Lambda + map() + Condition
+numbers = [10, 15, 20, 25, 30]
+result = list(map(lambda num : num*2 if num %2 ==0 else num * 3, numbers))
 print(result)
 
-#lambda filter():filter() meaning:
-"Condition satisfy madro elements matra keep madu."
-numbers = [10, 15, 20, 23, 30]
-result  = list(filter(lambda num: num % 2==0 , numbers))
-print(result)
-#map = MODIFY
-#filter = SELECT
-
-#Lambda + sorting:
-students=[("naga",98),
-        ("ravi",56),
-        ("raki",87) 
+#8:Lambda + Sorting
+students = [
+    #0th ind    1th ind
+    ("Nagaraj", 85),
+    ("Ravi", 72),
+    ("Kiran", 95),
+    ("Chandan", 68)
 ]
-students.sort(key =  lambda student: student[-0],)
+students.sort(key = lambda student:student[1],reverse = True)
 print(students)
+
+#9:Lambda + Real-World Problem
+salaries = [25000, 32000, 45000, 28000, 50000]
+updated_salary = list(map(lambda salary: salary+5000, salaries))
+print(updated_salary)
+
+#10:FINAL LAMBDA INTERVIEW QUESTION
+students = [
+    ("Nagaraj", 85),
+    ("Ravi", 32),
+    ("Kiran", 91),
+    ("Chandan", 28),
+    ("Arjun", 76)
+]
+result = list(map(lambda student: student[0], filter(lambda student: student[1] > 35, students)))
+print(result)
