@@ -48,5 +48,5 @@ students=[("naga",98),
         ("ravi",56),
         ("raki",87) 
 ]
-students.sort(key =  lambda student: student[0],)
+students.sort(key =  lambda student: student[-0],)
 print(students)
