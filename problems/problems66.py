@@ -91,14 +91,14 @@ print(emp.name)
 print(emp.salry)
 
 
-class bankaccount:
+class bankaccounts:
     def __init__(self, holder, balance):
         self.holder = holder
         self.balance = balance
 
 
-person1 = bankaccount("nagaraj", "9353132645")
-person2 = bankaccount("subramanya", "6361273988")
+person1 = bankaccounts("nagaraj", "9353132645")
+person2 = bankaccounts("subramanya", "6361273988")
 
 print(person1.holder)
 print(person1.balance)
@@ -207,3 +207,71 @@ if p3.score > highest.score:
     highest = p3
 print(highest.name)
 print(highest.score)
+
+
+class Laptop:
+    def __init__(self, brand, ram):
+        self.brand = brand
+        self.ram = ram
+
+
+l1 = Laptop("ASUS", 16)
+
+print(l1.brand)
+print(l1.ram)
+
+
+class movie:
+    def __init__(self, title, rating):
+        self.title = title
+        self.rating = rating
+
+
+m1 = movie("toxic", 9)
+m2 = movie("krishna pranaya sakhi", 10)
+m3 = movie("ramachari", 8)
+
+highest = m1
+if m2.rating > highest.rating:
+    highest = m2
+if m3.rating > highest.rating:
+    highest = m3
+
+print(highest.title)
+print(highest.rating)
+
+
+class bankaccount:
+    def __init__(self, holder, balance):
+        self.holder = holder
+        self.balance = balance
+
+
+p1 = bankaccount("nagaraj", 60000)
+p2 = bankaccount("subramanya", 10000)
+if p1.balance >= 50000:
+    print(p1.holder, "priemium")
+else:
+    print(p1.holder, "regular")
+if p2.balance >= 50000:
+    print(p2.holder, "priemium")
+else:
+    print(p2.holder, "regular")
+
+
+class house:
+    def __init__(self, owner, area):
+        self.owner = owner
+        self.area = area
+
+
+o1 = house("nagaraj", 500)
+o2 = house("vikas", 478)
+o3 = house("russel", 599)
+largest_house = o1
+if o2.area > largest_house.area:
+    largest_house = o2
+if o3.area > largest_house.area:
+    largest_house = o3
+print(largest_house.owner)
+print(largest_house.area)
