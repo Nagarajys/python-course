@@ -249,3 +249,82 @@ class audioprocesser(process):
 objects = [imageprocesser(), textprocesser(), audioprocesser()]
 for obj in objects:
     obj.process()
+
+
+# Problem 12/30 — Polymorphism
+class Employes:
+    def calculate_salary(self):
+        pass
+
+
+class FullTimeEmployee(Employes):
+    def __init__(self, salary):
+        self.salary = salary
+
+    def calculate_salary(self):
+        print("full time employee:", self.salary)
+
+
+class PartTime(Employes):
+    def __init__(self, salary, hours):
+        self.salary = salary
+        self.hours = hours
+
+    def calculate_salary(self):
+        print("part time:", self.salary * self.hours)
+
+
+class free_lancer(Employes):
+    def __init__(self, salary, projects):
+        self.salary = salary
+        self.projects = projects
+
+    def calculate_salary(self):
+        print("free lancer salary:", self.salary * self.projects)
+
+
+employe1 = FullTimeEmployee(50000)
+employe2 = PartTime(500, 80)
+employe3 = free_lancer(1500, 8)
+employe1.calculate_salary()
+employe2.calculate_salary()
+employe3.calculate_salary()
+
+
+# Problem 13/30 — Polymorphism: Method with Different Input Data:
+# vehical rental system
+
+
+class Vehicle:
+    def __init__(self, vehicle_number):
+        self.vehicle_number = vehicle_number
+
+    def calculate_rent(self, days):
+        pass
+
+
+class Bike(Vehicle):
+    def calculate_rent(self, days):
+        print("Vehicle:", self.vehicle_number)
+        print("Bike rent:", days * 300)
+
+
+class Car(Vehicle):
+    def calculate_rent(self, days):
+        print("Vehicle:", self.vehicle_number)
+        print("Car rent:", days * 800)
+
+
+class LuxuryCar(Vehicle):
+    def calculate_rent(self, days):
+        print("Vehicle:", self.vehicle_number)
+        print("Luxury car rent:", days * 2000)
+
+
+bike = Bike("KA01AB1234")
+car = Car("KA02CD5678")
+luxury_car = LuxuryCar("KA03EF9012")
+
+bike.calculate_rent(30)
+car.calculate_rent(60)
+luxury_car.calculate_rent(10)
