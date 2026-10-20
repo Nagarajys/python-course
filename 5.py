@@ -26,11 +26,11 @@ print(l[0:3])
 print(l[0:]) ## full list will become output
 print(l[2:9])
 print(l[0::2]) # to skip elements using 2 colons step
-print(l[2::5])
+print(l[2::5])# 4 element skip agtte yak andre 2th index inda start 5 stop edhyalla adhike 4element sikip agutte 
 print(l[0::4])
 print(l[0::4])
 print(l[2::6])
-print(l[1:3])
+print(l[1:3]) # single colon 1th index print and 3 agalla exlusuv so 2 th index print agutte
 l2 = (l[1:3])
 print(l2)
 items = (23,55,66,33,22,1,100,3500,250)

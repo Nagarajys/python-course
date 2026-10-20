@@ -1,4 +1,4 @@
-# Q : Count the number of digits in a number.
+# Q : Count the number of digits in a number. WHILE CONCEPT
 num = 123456
 print(len(str(num)))
 #OR

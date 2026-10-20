@@ -13,9 +13,8 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * Variables & Data Types
 * Input & Output
 * Conditional Statements
-* Loops
-* Functions
 * Strings
+* operators
 * Lists
 * List Manipulation
 * Matrix (2D Lists)
@@ -23,6 +22,13 @@ I am an aspiring Artificial intelligence and machine learning(AIML) student who 
 * Tupels and sets
 * Dictionary
 * If, elif,and else
+* while loops
+* for loops
+* loops advanced
+* list and dictionary comphrehension
+* functions basics
+* functions advanced concept
+* hacker rank .
 
 ---
 
@@ -53,9 +59,8 @@ Consistency over perfection.
 
 ## 🤝 Connect with Me
 
-* GitHub: https://github.com/Nagarajys
-* LinkedIn: https://www.linkedin.com/in/nagaraj-ys/
+* GitHub: [Nagarajys](https://github.com/Nagarajys)
+* LinkedIn: <https://www.linkedin.com/in/nagaraj-ys/>
 
 Thank you for visiting my repository!
 ⭐ Feel free to explore my code and follow my learning journey.
-

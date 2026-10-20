@@ -1,4 +1,4 @@
-#Q:Check whether a number is a palindrome.
+#Q:Check whether a number is a palindrome. WHILE CONCEPT
 num = int(input("put a number"))
 
 original = num

@@ -8,4 +8,4 @@ elif marks >=80 and income <= 500000:
 elif marks >=60 and income <= 100000:
     print("50% scolarship")
 else:
-    print("you are not al;lowed for scolarship")
+    print("you are not allowed for scolarship")
