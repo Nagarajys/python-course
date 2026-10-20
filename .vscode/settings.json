@@ -5,5 +5,12 @@
         "statusBar.noFolderBackground": "#2E2267",
         "statusBar.noFolderForeground": "#FBFBFE"
     },
-    "python.analysis.languageServerMode": "default"
+    "python.analysis.languageServerMode": "default",
+    "python-envs.pythonProjects": [
+        {
+            "path": "python-course",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
 }
