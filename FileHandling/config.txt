@@ -1,0 +1,3 @@
+Model: Neural Network
+Epochs: 50
+Learning Rate: 0.01

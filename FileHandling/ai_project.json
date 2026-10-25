@@ -1,0 +1,12 @@
+{
+    "project": "AI Image Classifier",
+    "dataset_size": 5000,
+    "accuracy": 99.1,
+    "completed": false,
+    "algorithms": [
+        "CNN",
+        "RNN",
+        "ANN"
+    ],
+    "version": 2
+}

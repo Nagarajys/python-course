@@ -1,0 +1,5 @@
+Model,Accuracy,Status
+Model,Accuracy,Status
+CNN,95,Completed
+RNN,91,Completed
+ANN,88,Testing

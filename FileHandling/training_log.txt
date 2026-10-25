@@ -1,0 +1,9 @@
+Project: AI Disease Detection
+Dataset: 5000 Records
+Accuracy: 94.5%
+Status: Model Training Completed
+AI  MODEL TRAINING COMPLETED
+
+AI  MODEL TRAINING COMPLETED
+AI  MODEL TRAINING COMPLETED
+AI  MODEL TRAINING COMPLETED

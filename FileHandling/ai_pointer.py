@@ -1,0 +1,6 @@
+file = open("ai_data.txt", "r")
+print("INITIAL POSITION:", file.tell())
+print("read charecters:", file.read(3))
+print("new position:", file.tell())
+file.seek(0)
+print("COMPLETE CONTENT:", file.read())

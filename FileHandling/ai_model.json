@@ -1,0 +1,11 @@
+{
+    "model": "CNN",
+    "accuracy": 96.5,
+    "epochs": 20,
+    "training completed": true,
+    "layers": [
+        "input",
+        "hidden",
+        "output"
+    ]
+}

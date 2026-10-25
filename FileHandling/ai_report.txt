@@ -1,0 +1,3 @@
+Training Started
+training completed
+TRAINING FAILED
