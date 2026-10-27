@@ -1,0 +1,3 @@
+Project: AI Image Classifier
+Status: Training completed
+Status: Training completed

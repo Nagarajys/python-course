@@ -1,0 +1,4 @@
+Creator: NAGARAJA YS
+Model: Disease Detection AI
+Accuracy: 92.5
+Status: Training Completed
