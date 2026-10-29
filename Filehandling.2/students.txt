@@ -1,0 +1,7 @@
+Name: Rahul
+Age: 18
+Marks: 85
+
+Name: Priya
+Age: 19
+Marks: 92
