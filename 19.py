@@ -30,7 +30,7 @@ bye()
 
 
 ##2. DECORATERS WITH ARGUMENTS
-def greet(func):
+def greett(func):
     def wrapper(name):
         print("hello bro")
         func(name)
@@ -39,7 +39,7 @@ def greet(func):
     return wrapper
 
 
-@greet
+@greett
 def say_name(name):
     print(f"my name is:{name}")
 
@@ -171,16 +171,3 @@ def display_result(function):
 
 display_result(calculate_accuracy)
 display_result(calculate_loss)
-
-
-# TOPIC 2 - INNER FUNCTIONS::
-def train_model():
-    print("AI training started")
-
-    def load_data_set():
-        print("Data set loaded successfully")
-
-    load_data_set()
-
-
-train_model()
