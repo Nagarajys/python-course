@@ -65,3 +65,23 @@ def process_dataset(dataset_name):
 
 
 process_dataset("AI training dataset")
+
+
+# TOPIC 8 - DECORATERS WITH RWETURN RESULT
+def accuracy_monitor(function):
+    def wrapper():
+        print("Accuracy calculation started")
+        result = function()
+        print("Accuracy calculation completed")
+        return result
+
+    return wrapper
+
+
+@accuracy_monitor
+def calculate_accuracy():
+    return 98
+
+
+result = calculate_accuracy()
+print(result)
