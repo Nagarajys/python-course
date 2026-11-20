@@ -87,7 +87,7 @@ result = calculate_accuracy()
 print(result)
 
 
-# TOPIC 9 - DECORATORS WITH *ARGS AND **KWARGS:4
+# TOPIC 9 - DECORATORS WITH *ARGS AND **KWARGS
 def prediction_monitor(function):
     def wrapper(*args, **kwargs):
         print("AI prediction started")
@@ -99,12 +99,39 @@ def prediction_monitor(function):
 
 
 @prediction_monitor
-def predict(model_name, dataset, accuracy):
+def predicts(model_name, dataset, accuracy):
     print("model_name:", model_name)
     print("dataset:", dataset)
     print("accuracy", accuracy)
     return "prediction_successfull"
 
 
-result = predict("ANN", "image dataset", 97)
+result = predicts("ANN", "image dataset", 97)
 print(result)
+
+
+# TOPIC 10 - MULTIPLE DECORATERS:
+def excecution_logger(function):
+    def wrapper():
+        print("AI model excecution started")
+        function()
+        print("AI model excecution finished")
+
+    return wrapper
+
+
+def accuracy_validator(function):
+    def wrapper():
+        print("Model accuracy validated")
+        function()
+
+    return wrapper
+
+
+@excecution_logger
+@accuracy_validator
+def train_model():
+    print("Training ANN model")
+
+
+train_model()
