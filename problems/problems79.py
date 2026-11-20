@@ -47,3 +47,21 @@ def predict():
 
 
 predict()
+
+
+# TOPIC 8 - DECORATERS WITH ARGUMNETS
+def dataset_monitor(function):
+    def wrapper(dataset_name):
+        print("Dateset training started")
+        function(dataset_name)
+        print("Dataset processing completed")
+
+    return wrapper
+
+
+@dataset_monitor
+def process_dataset(dataset_name):
+    print("PROCESSING:", dataset_name)
+
+
+process_dataset("AI training dataset")
