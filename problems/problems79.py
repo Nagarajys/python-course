@@ -163,3 +163,25 @@ def trains_model():
 
 
 trains_model()
+
+
+# TOPIC -12- FUNCTOOLS.WRAPS(functools.wraps)
+from functools import wraps
+
+
+def model_logger(function):
+    @wraps(function)
+    def wrapper():
+        print("AI model excecution started")
+        function()
+
+    return wrapper
+
+
+@model_logger
+def genrate_model():
+    """This function trains an ANN model"""
+
+
+print(genrate_model.__name__)
+print(genrate_model.__doc__)
