@@ -67,7 +67,7 @@ def process_dataset(dataset_name):
 process_dataset("AI training dataset")
 
 
-# TOPIC 8 - DECORATERS WITH RWETURN RESULT
+# TOPIC 8 - DECORATERS WITH RETURN RESULT
 def accuracy_monitor(function):
     def wrapper():
         print("Accuracy calculation started")
@@ -84,4 +84,27 @@ def calculate_accuracy():
 
 
 result = calculate_accuracy()
+print(result)
+
+
+# TOPIC 9 - DECORATORS WITH *ARGS AND **KWARGS:4
+def prediction_monitor(function):
+    def wrapper(*args, **kwargs):
+        print("AI prediction started")
+        result = function(*args, **kwargs)
+        print("AI prediction completed")
+        return result
+
+    return wrapper
+
+
+@prediction_monitor
+def predict(model_name, dataset, accuracy):
+    print("model_name:", model_name)
+    print("dataset:", dataset)
+    print("accuracy", accuracy)
+    return "prediction_successfull"
+
+
+result = predict("ANN", "image dataset", 97)
 print(result)
