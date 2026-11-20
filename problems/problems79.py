@@ -135,3 +135,31 @@ def train_model():
 
 
 train_model()
+
+
+# TOPIC 11 - DECORATER EXCECUTION ORDER:
+def training_logger(function):
+    def wrapper():
+        print("Trining started")
+        function()
+        print("Training finished")
+
+    return wrapper
+
+
+def dataset_validator(function):
+    def wrapper():
+        print("Dataset validation started")
+        function()
+        print("Dataset validation finished")
+
+    return wrapper
+
+
+@training_logger
+@dataset_validator
+def trains_model():
+    print("AI modle Training....")
+
+
+trains_model()
